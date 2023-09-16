@@ -1,0 +1,90 @@
+.first{
+    font-size: 100px;
+    font-weight: 700;
+margin-left: 15%;
+}
+.second{
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 15%;
+
+}
+.purchase{
+    margin-left: 15%;
+
+}
+.group{
+    padding-right:20px;
+}
+.third.third{
+    font-size: 30px;
+    font-weight: 600; 
+}
+.four{
+    font-size: 40px;
+    font-weight: 500;
+}   
+.bgcolor{
+    background-color: rgb(56, 55, 55);
+}
+.five{
+    background-color: black;
+}
+.facebook{
+    border-radius:70% ;
+    color:white;
+    background-color: black;
+    padding: 19px;
+}
+.instagram{
+    border-radius:60% ;
+    color:white;
+    background-color: black;
+    padding: 15px;
+}
+.youtube{
+    border-radius:60% ;
+    color:white;
+    background-color: black;
+    padding: 15px;
+}
+.purchase{
+    padding: 10px;
+    color: white;
+}
+.purchase:hover{
+    background-color: black;
+}
+.left{
+background-color: black;
+padding: 15px;
+color: white;
+padding-left: 40px;
+padding-right:40px;
+}
+.right{
+background-color: black;
+padding: 15px;
+color: white;
+padding-right: 40px;
+padding-left: 40px;
+}
+.Brief{
+    text-align:center;
+    font-size: 25px;
+}
+.Timeline{
+    font-size: 40px;
+    text-align: center;
+}
+.circle{
+    border-radius: 12px;
+    color:rgb(174, 178, 182);
+}
+.border{
+    border: 1px solid balck;
+    background-color: aliceblue;
+}
+.message{
+    padding: 40px;
+}
