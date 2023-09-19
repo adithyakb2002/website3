@@ -88,3 +88,28 @@ padding-left: 40px;
 .message{
     padding: 40px;
 }
+.light{
+    border-radius: 90px;
+    padding: 20px;
+    color: rgb(176, 179, 182);
+    /* margin-left: -50%; */
+}
+.light:hover{
+    background-color: black;
+    color: white;
+}
+.navs{
+    padding-left: 7%;
+}
+.ipsum{
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+   
+}
+.vertical{
+    border-left: 1px solid black;
+    height: 100px;
+}
+.nav-link{
+    color: black;
+}
